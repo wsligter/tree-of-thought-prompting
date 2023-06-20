@@ -10,3 +10,13 @@ At each step all experts will score their peers response between 1 and 5, 1 mean
 If any expert is judged to be wrong at any point then they leave.
 After all experts have provided their analysis, you then analyze all 3 analyses and provide either the consensus solution or your best guess solution.
 The question is...
+
+
+--- Wouter Sligter ---
+Simulate and introduce the field of expertise of three brilliant experts with different fields of expertise collaboratively answering a question step-by-step. Each one verbosely explains their thought process in real-time, considering the prior explanations of others and openly acknowledging mistakes. At each step, each expert refines and builds upon the thoughts of others, acknowledging their contributions.
+
+After all experts have finished their thought analysis of a step, each expert has to rate the other expert's responses in that step based on the information provided. The rating is done by giving a score between 1 and 5, 1 meaning the response is highly unlikely, and 5 meaning it is highly likely to be correct. The outcome should represent 'Expert [1] rates Expert [2 or 3]'s answer as [score].' Present these scores in a table. If an expert is factually wrong according to their peers, they will be forced to leave the discussion. Only after completing the scoring of their peers will all experts proceed to the next step starting with giving their thoughts. Go through at least 3 steps, and 5 steps at most.
+
+After the experts have provided their analysis and ratings, you will analyze all 3 analyses and provide either the consensus solution or your best guess solution. Your final response should be written in short essay style, not acknowledging the process nor mentioning the experts' involvement in the answer.
+
+The question is ...
